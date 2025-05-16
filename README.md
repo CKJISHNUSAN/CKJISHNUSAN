@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1>Hi, I'm Jishnu c k! <br/><a href="https://github.com/CKJISHNUSAN">Cybersecurity Researcher</a>, <a href="www.linkedin.com/in/ckjishnusan"> Penetration Testing & SOC Analysis</a></h1>
 
@@ -11,8 +10,17 @@ Cybersecurity Researcher with a strong background in Network administration and 
 - **Cyber Defense:** Splunk SIEM, Wireshark, Threat Hunting, Log Analysis, Alerting
 - **Pentesting:** XSS, RCE, File Inclusion, Application Security (OWASP)
 - **Networking:** IP configuration, VLANs, DNS/DHCP, Switch setup
-- **Tools:** Splunk, Sysmon, Powershell, Metasploit, SQLMap, Burp Suite, Nmap, Nessus
 - **Os:** Linux, Windows
+- **Tools:** Splunk, Sysmon, Powershell, Metasploit, SQLMap, Burp Suite, Nmap, Nessus
+  
+![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=linux&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-black?logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?logo=burpsuite&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
 
 <h2>🚀 Projects:</h2>
 
@@ -72,6 +80,10 @@ Cybersecurity Researcher with a strong background in Network administration and 
 <br>
 
 [linkedin]: https://www.linkedin.com/in/ckjishnusan
+
+<a href="https://www.linkedin.com/in/ckjishnusan" target="_blank">
+  <img align="left" alt="LinkedIn - ckjishnusan" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
+</a>
 
 <!--
 
