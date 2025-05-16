@@ -76,7 +76,7 @@ Cybersecurity Researcher with a strong background in Network administration and 
 <h2>📫 Let’s connect!:</h2>
 
 <a href="https://www.linkedin.com/in/ckjishnusan" target="_blank">
-  <img align="left" alt="LinkedIn - ckjishnusan" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
+<img align="left" alt="LinkedIn - ckjishnusan" width="24px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
 </a>
 
 <!--
