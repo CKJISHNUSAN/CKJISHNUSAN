@@ -7,12 +7,12 @@ Cybersecurity Researcher with a strong background in Network administration and 
 <h2> 🛠️ Skills:</h2>
 
 ### Technical Skills
-- **Cyber Defense:** Splunk SIEM, Wireshark, Threat Hunting, Log Analysis, Alerting
+- **Security Operations:** Log Analysis, SIEM, Packet Analysis, MITRE ATT&CK, Network Monitoring, Threat Hunting, Alerting
 - **Pentesting:** XSS, RCE, File Inclusion, Application Security (OWASP)
-- **Networking:** IP configuration, VLANs, DNS/DHCP, Switch setup
-- **Os:** Linux, Windows
-- **Tools:** Splunk, Sysmon, Powershell, Metasploit, SQLMap, Burp Suite, Nmap, Nessus
-  
+- **Networking:** IP configuration, VLANs, DNS/DHCP, Switch setup, Network Devices, TCP/IP, ARP, ICMP, HTTP/S Protocols, VPN, OSI Layer
+- **Os:** Linux (Ubuntu, kali), Windows
+- **Cybersecurity Tools:** Splunk, Sysmon, Wazuh, Wireshark, Powershell, Metasploit, openVAS, SQLMap, Burp Suite, Nmap, Nessus
+
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=linux&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
