@@ -48,7 +48,6 @@ Cybersecurity Researcher with a strong background in Network administration and 
 
 <h2>🎓 Certifications:</h2>
 
-- [x] **CompTIA Security+ (In Progress)**  *(2025 – Pursuing)*
 - [x] **Certified IT Infrastructure and Cyber SOC Analyst (CICSA)**
 - [x] **Certified SOC Analyst (CSA)** – EC-Council *(2025 – Pursuing)* 
 - [x] **Introduction to Cybersecurity - Cisco Networking Academy** *(2025 – Pursuing)*
